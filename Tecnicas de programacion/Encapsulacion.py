@@ -21,7 +21,7 @@ class PersonajeEncapsulacion:
 
 
 # Ejemplo de uso
-personaje = PersonajeEncapsulacion("Joselyn", 50)
+personaje = PersonajeEncapsulacion("Vanessa", 50)
 personaje.atributos()
 
 # Modificar vida usando un método

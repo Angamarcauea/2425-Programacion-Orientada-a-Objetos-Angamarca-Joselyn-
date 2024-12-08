@@ -20,5 +20,5 @@ class GuerreroHerencia(PersonajeHerencia):
 
 
 # Ejemplo de uso
-guerrero = GuerreroHerencia("John", 100, "Espada Valyria")
+guerrero = GuerreroHerencia("Vanesa", 100, "Espada Valyria")
 guerrero.atributos()

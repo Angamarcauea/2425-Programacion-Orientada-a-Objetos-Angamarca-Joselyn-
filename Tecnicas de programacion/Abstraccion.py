@@ -30,8 +30,8 @@ class MagoAbstraccion(PersonajeAbstraccion):
 
 
 # Ejemplo de uso
-guerrero = GuerreroAbstraccion("Ares", 100)
-mago = MagoAbstraccion("John", 80)
+guerrero = GuerreroAbstraccion("Guts", 100)
+mago = MagoAbstraccion("Vanessa", 80)
 
 guerrero.atributos()
 mago.atributos()
