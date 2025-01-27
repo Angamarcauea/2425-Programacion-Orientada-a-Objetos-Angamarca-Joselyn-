@@ -23,10 +23,10 @@ class Producto:
 
 if __name__ == "__main__":
     # Crear dos productos
-    producto1 = Producto("Laptop", 1200)
+    producto1 = Producto("Laptop", 1400)
     producto1.mostrar_detalles()
 
-    producto2 = Producto("Teléfono", 800)
+    producto2 = Producto("Telefono", 900)
     producto2.mostrar_detalles()
 
     # Eliminar los productos
