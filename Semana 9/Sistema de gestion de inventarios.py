@@ -21,8 +21,8 @@ class Articulo:
     def actualizar_cantidad(self, nueva_cantidad):
         self.cantidad = nueva_cantidad
 
-    def actualizar_precio(self, nuevo_precio):
-        self.precio_unitario = nuevo_precio
+    def actualizar_precio(self, nuev_precio):
+        self.precio_unitario = nuev_precio
 
     def __str__(self):
         return f"Código: {self.codigo} | Nombre: {self.nombre} | Cantidad: {self.cantidad} | Precio Unitario: ${self.precio_unitario}"
