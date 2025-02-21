@@ -1,1 +1,1 @@
-# 2425-Programacion-Orientada-a-Objetos-Angamarca-Joselyn-
+# 2425-Programacion-Orientada-a-Objetos-Angamarca-Joselyn
