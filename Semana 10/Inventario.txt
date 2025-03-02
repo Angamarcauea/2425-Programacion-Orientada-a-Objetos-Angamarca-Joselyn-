@@ -1,3 +1,5 @@
 1,impresora,26,235.0
 2,laptop,56,459.0
 3,Mause,78,12.0
+101,laptop,40,5.0
+102,silla,36,57.0
